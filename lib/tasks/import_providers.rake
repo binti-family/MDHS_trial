@@ -1,6 +1,6 @@
 desc "Import csv file of seed providers"
 task :import_providers => :environment do
-  CSV.foreach("vendor/seed_data/Ms-Challenge-data.csv", headers: true) do |row, idx|
+  CSV.foreach("vendor/seed_data/MS-Challenge-data.csv", headers: true) do |row, idx|
     p = Provider.create(
       name: row["ProviderName"],
       licensed: row["LicenseType"] == "LICENSED",
