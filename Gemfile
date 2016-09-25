@@ -10,6 +10,7 @@ gem 'jquery-rails'
 gem 'geocoder'
 gem 'activerecord-postgis-adapter'
 gem 'dotenv-rails'
+gem 'puma'
 
 group :development, :test do
   gem 'pry-rails'
@@ -30,6 +31,5 @@ group :test do
 end
 
 group :production do
-  gem 'puma'
   gem 'rails_12factor'
 end
