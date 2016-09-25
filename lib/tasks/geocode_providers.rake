@@ -1,7 +1,7 @@
 desc "Geocode Providers in the database"
 
 task :geocode_providers => :environment do
-  Provider.all.each do |provider|
+  Provider.where(coordinates: nil).each do |provider|
     geocode = Geocoder.search(provider.city, params: {
       county: provider.county_name,
       zipcode: provider.zipcode
