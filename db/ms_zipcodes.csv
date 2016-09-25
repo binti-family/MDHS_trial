@@ -1,0 +1,534 @@
+zipcode,city,lat,long,state,county
+38601,abbeville,34.4853103,-89.49311759999999,Mississippi,Lafayette County
+38602,arkabutla,34.6985459,-90.123003,Mississippi,Tate County
+38603,ashland,34.8151808,-89.1324866,Mississippi,Benton County
+38606,batesville,34.3088241,-89.9813445,Mississippi,Panola County
+38609,belen,34.27,-90.35,Mississippi,Quitman County
+38610,blue mountain,34.6597441,-89.0370477,Mississippi,Tippah County
+38611,byhalia,34.8177943,-89.6628111,Mississippi,Marshall County
+38614,clarksdale,34.1960298,-90.6393702,Mississippi,Coahoma County
+38617,coahoma,34.3521971,-90.5068824,Mississippi,Coahoma County
+38618,coldwater,34.7077309,-89.9066314,Mississippi,Tate County
+38619,como,34.5305112,-89.7942892,Mississippi,Panola County
+38620,courtland,34.2532568,-89.9346659,Mississippi,Panola County
+38621,crenshaw,34.4418921,-90.1682271,Mississippi,Panola County
+38622,crowder,34.1733225,-90.1363593,Mississippi,Panola County
+38623,darling,34.3584822,-90.27609029999999,Mississippi,Quitman County
+38625,dumas,34.6248073,-88.83590319999999,Mississippi,Tippah County
+38626,dundee,34.5521451,-90.4125181,Mississippi,Tunica County
+38627,etta,34.4283064,-89.19916119999999,Mississippi,Union County
+38628,falcon,34.3946766,-90.25165919999999,Mississippi,Quitman County
+38629,falkner,34.86942700000001,-89.0083726,Mississippi,Tippah County
+38630,farrell,34.2025999,-90.57106999999999,Mississippi,Coahoma County
+38631,friars point,34.3682543,-90.634631,Mississippi,Coahoma County
+38632,hernando,34.7961707,-90.0186555,Mississippi,DeSoto County
+38633,hickory flat,34.6388471,-89.20867729999999,Mississippi,Benton County
+38634,holly springs,34.77,-89.45,Mississippi,Marshall County
+38635,holly springs,34.7289034,-89.5120084,Mississippi,Marshall County
+38637,horn lake,34.9616778,-90.04665589999999,Mississippi,DeSoto County
+38638,independence,34.7050591,-89.8100559,Mississippi,Tate County
+38639,jonestown,34.319802,-90.4564484,Mississippi,Coahoma County
+38641,lake cormorant,34.8843708,-90.1682271,Mississippi,DeSoto County
+38642,lamar,34.8822792,-89.2657266,Mississippi,Benton County
+38643,lambert,34.1306999,-90.2432307,Mississippi,Quitman County
+38644,lula,34.4549458,-90.47618930000002,Mississippi,Coahoma County
+38645,lyon,34.2633439,-90.5068824,Mississippi,Coahoma County
+38646,marks,34.2861473,-90.3371889,Mississippi,Quitman County
+38647,michigan city,34.9702649,-89.2277026,Mississippi,Benton County
+38649,mount pleasant,34.94,-89.53,Mississippi,Marshall County
+38650,myrtle,34.52775,-89.1515476,Mississippi,Union County
+38651,nesbit,34.8955106,-90.04665589999999,Mississippi,DeSoto County
+38652,new albany,34.4605576,-89.0561532,Mississippi,Union County
+38654,olive branch,34.9284937,-89.83177289999999,Mississippi,DeSoto County
+38655,oxford,34.2853188,-89.436391,Mississippi,Lafayette County
+38658,pope,34.17537480000001,-89.8692203,Mississippi,Panola County
+38659,potts camp,34.6175019,-89.341667,Mississippi,Marshall County
+38661,red banks,34.9167851,-89.5591963,Mississippi,Marshall County
+38663,ripley,34.7468892,-88.8838834,Mississippi,Tippah County
+38664,robinsonville,34.7958497,-90.2807868,Mississippi,Tunica County
+38665,sarah,34.5748728,-90.1682271,Mississippi,Tate County
+38666,sardis,34.3976229,-89.9440061,Mississippi,Panola County
+38668,senatobia,34.6192004,-89.8692203,Mississippi,Tate County
+38669,sherard,34.22000000000001,-90.7099999,Mississippi,Coahoma County
+38670,sledge,34.44168640000001,-90.2807868,Mississippi,Quitman County
+38671,southaven,34.9837306,-89.99067339999999,Mississippi,DeSoto County
+38672,southaven,34.9341033,-89.9299949,Mississippi,DeSoto County
+38673,taylor,34.2971182,-89.6157473,Mississippi,Lafayette County
+38674,tiplersville,34.8906781,-88.91264489999999,Mississippi,Tippah County
+38675,tula,34.2299999,-89.36,Mississippi,Lafayette County
+38676,tunica,34.7072488,-90.3560076,Mississippi,Tunica County
+38677,university,34.367641,-89.5391483,Mississippi,Lafayette County
+38679,victoria,34.8461169,-89.617768,Mississippi,Marshall County
+38680,walls,34.9616263,-90.12142349999999,Mississippi,DeSoto County
+38683,walnut,34.9231494,-88.8455037,Mississippi,Tippah County
+38685,waterford,34.6182219,-89.49311759999999,Mississippi,Marshall County
+38686,walls,34.9485011,-90.154454,Mississippi,Desoto County
+38701,greenville,33.3664005,-91.07777229999999,Mississippi,Washington County
+38702,greenville,33.28,-91.02,Mississippi,Washington County
+38703,greenville,33.5009356,-91.07777229999999,Mississippi,Washington County
+38704,greenville,33.399799,-91.0276332,Mississippi,Washington County
+38720,alligator,34.1172112,-90.8008388,Mississippi,Bolivar County
+38721,anguilla,33.0094239,-90.6962853,Mississippi,Sharkey County
+38722,arcola,33.26600000000001,-90.87760999999999,Mississippi,Washington County
+38723,avon,33.2307069,-91.04739169999999,Mississippi,Washington County
+38725,benoit,33.6359218,-91.0011902,Mississippi,Bolivar County
+38726,beulah,33.7253801,-91.0011902,Mississippi,Bolivar County
+38730,boyle,33.6820539,-90.810357,Mississippi,Bolivar County
+38731,chatham,33.0801752,-91.0442502,Mississippi,Washington County
+38732,cleveland,33.7721644,-90.6962853,Mississippi,Bolivar County
+38733,cleveland,33.7457592,-90.7339765,Mississippi,Bolivar County
+38736,doddsville,33.6385904,-90.5825359,Mississippi,Sunflower County
+38737,drew,33.8622565,-90.5446912,Mississippi,Sunflower County
+38738,parchman,33.81232,-90.52923,Mississippi,Sunflower County
+38739,dublin,34.0770695,-90.4950746,Mississippi,Coahoma County
+38740,duncan,34.0392068,-90.810357,Mississippi,Bolivar County
+38744,glen allan,33.0073604,-91.0011902,Mississippi,Washington County
+38745,grace,32.9995635,-90.9559864,Mississippi,Issaquena County
+38746,gunnison,33.9492457,-90.9247501,Mississippi,Bolivar County
+38748,hollandale,33.1214041,-90.7913227,Mississippi,Washington County
+38749,holly ridge,33.45,-90.75,Mississippi,Sunflower County
+38751,indianola,33.4590347,-90.658333,Mississippi,Sunflower County
+38753,inverness,33.3585203,-90.5730713,Mississippi,Sunflower County
+38754,isola,33.23478470000001,-90.62041649999999,Mississippi,Humphreys County
+38756,leland,33.403366,-90.8996741,Mississippi,Washington County
+38759,merigold,33.8163909,-90.7722974,Mississippi,Bolivar County
+38760,metcalfe,33.4495208,-91.0286955,Mississippi,Washington County
+38761,moorhead,33.4150435,-90.46910969999999,Mississippi,Sunflower County
+38762,mound bayou,33.8948108,-90.724773,Mississippi,Bolivar County
+38764,pace,33.7994389,-90.871977,Mississippi,Bolivar County
+38765,panther burn,33.0588492,-90.8913523,Mississippi,Sharkey County
+38767,rena lara,34.1497123,-90.7817517,Mississippi,Coahoma County
+38768,rome,33.9683692,-90.5116066,Mississippi,Sunflower County
+38769,rosedale,33.85971019999999,-90.9629523,Mississippi,Bolivar County
+38771,ruleville,33.7282241,-90.5446912,Mississippi,Sunflower County
+38772,scott,33.5792435,-91.0873551,Mississippi,Bolivar County
+38773,shaw,33.59279360000001,-90.7722974,Mississippi,Bolivar County
+38774,shelby,33.9505233,-90.73427339999999,Mississippi,Bolivar County
+38776,stoneville,33.4405622,-90.9199773,Mississippi,Washington County
+38778,sunflower,33.5493749,-90.5068824,Mississippi,Sunflower County
+38780,wayside,33.2688642,-91.0338144,Mississippi,Washington County
+38781,winstonville,33.9085713,-90.7556575,Mississippi,Bolivar County
+38782,winterville,33.5,-91.06000000000002,Mississippi,Washington County
+38801,tupelo,34.21377349999999,-88.7686382,Mississippi,Lee County
+38802,tupelo,34.2565302,-88.724929,Mississippi,Lee County
+38803,tupelo,34.2565302,-88.724929,Mississippi,Lee County
+38804,tupelo,34.2684438,-88.6819958,Mississippi,Lee County
+38820,algoma,34.17397,-89.03139999999999,Mississippi,Pontotoc County
+38821,amory,33.9876974,-88.4597673,Mississippi,Monroe County
+38824,baldwyn,34.5232901,-88.6530753,Mississippi,Prentiss County
+38825,becker,33.9291497,-88.4784449,Mississippi,Monroe County
+38826,belden,34.3146049,-88.8551019,Mississippi,Lee County
+38827,belmont,34.52822930000001,-88.1779182,Mississippi,Tishomingo County
+38828,blue springs,34.4369367,-88.8838834,Mississippi,Union County
+38829,booneville,34.6324369,-88.5178518,Mississippi,Prentiss County
+38833,burnsville,34.9173663,-88.3433623,Mississippi,Tishomingo County
+38834,corinth,34.8984684,-88.59517509999999,Mississippi,Alcorn County
+38835,corinth,34.93,-88.52,Mississippi,Alcorn County
+38838,dennis,34.5621641,-88.22664340000001,Mississippi,Tishomingo County
+38839,derma,33.8565089,-89.28531869999999,Mississippi,Calhoun County
+38841,ecru,34.3491665,-88.99880979999999,Mississippi,Pontotoc County
+38843,fulton,34.275721,-88.362785,Mississippi,Itawamba County
+38844,gattman,28.115763,-81.579711,Florida,Monroe County
+38846,glen,34.8407959,-88.3919026,Mississippi,Alcorn County
+38847,golden,34.429206,-88.22664340000001,Mississippi,Itawamba County
+38848,greenwood springs,33.9295271,-88.2753144,Mississippi,Monroe County
+38849,guntown,34.4681973,-88.6819958,Mississippi,Lee County
+38850,houlka,34.0381114,-89.0370477,Mississippi,Chickasaw County
+38851,houston,33.9261914,-88.9796776,Mississippi,Chickasaw County
+38852,iuka,34.8051099,-88.2071598,Mississippi,Tishomingo County
+38855,mantachie,34.3440756,-88.49849909999999,Mississippi,Itawamba County
+38856,marietta,34.4766943,-88.4597673,Mississippi,Prentiss County
+38857,mooreville,34.26737310000001,-88.58551729999999,Mississippi,Lee County
+38858,nettleton,34.1222666,-88.5371958,Mississippi,Monroe County
+38859,new site,34.5200171,-88.38219889999999,Mississippi,Prentiss County
+38860,okolona,33.9911608,-88.7686382,Mississippi,Chickasaw County
+38862,plantersville,34.1566439,-88.62413509999999,Mississippi,Lee County
+38863,pontotoc,34.1940742,-89.0561532,Mississippi,Pontotoc County
+38864,randolph,34.1282781,-89.18964299999999,Mississippi,Pontotoc County
+38865,rienzi,34.7878776,-88.57585739999999,Mississippi,Alcorn County
+38866,saltillo,34.3906718,-88.6916315,Mississippi,Lee County
+38868,shannon,34.1247941,-88.7686382,Mississippi,Lee County
+38869,sherman,34.3574333,-88.83470299999999,Mississippi,Pontotoc County
+38870,smithville,34.0752962,-88.3433623,Mississippi,Monroe County
+38871,thaxton,34.3174478,-89.2181911,Mississippi,Pontotoc County
+38873,tishomingo,34.6512482,-88.2655845,Mississippi,Tishomingo County
+38874,toccopola,34.26,-89.22999999999999,Mississippi,Pontotoc County
+38875,trebloc,33.8410619,-88.8304426,Mississippi,Chickasaw County
+38876,tremont,34.1626895,-88.22664340000001,Mississippi,Itawamba County
+38877,van vleet,33.9840895,-88.90545639999999,Mississippi,Chickasaw County
+38878,vardaman,33.9054364,-89.18964299999999,Mississippi,Calhoun County
+38879,verona,34.1994609,-88.727746,Mississippi,Lee County
+38880,wheeler,34.5802049,-88.605434,Mississippi,Prentiss County
+38901,grenada,33.7516314,-89.81303559999999,Mississippi,Grenada County
+38902,grenada,33.78215,-89.8287335,Mississippi,Grenada County
+38913,banner,34.1295643,-89.41746409999999,Mississippi,Calhoun County
+38914,big creek,33.8510525,-89.44585099999999,Mississippi,Calhoun County
+38915,bruce,34.0401106,-89.341667,Mississippi,Calhoun County
+38916,calhoun city,33.8170488,-89.341667,Mississippi,Calhoun County
+38917,carrollton,33.5727971,-89.9626799,Mississippi,Carroll County
+38920,cascilla,33.8634418,-90.0559939,Mississippi,Tallahatchie County
+38921,charleston,34.0195319,-90.11206960000001,Mississippi,Tallahatchie County
+38922,coffeeville,33.9299395,-89.6628111,Mississippi,Yalobusha County
+38923,coila,33.3710557,-89.9813445,Mississippi,Carroll County
+38924,cruger,33.3259976,-90.20571079999999,Mississippi,Holmes County
+38925,duck hill,33.6394461,-89.64399240000002,Mississippi,Montgomery County
+38926,elliott,33.68,-89.75,Mississippi,Grenada County
+38927,enid,34.1309383,-90.0186555,Mississippi,Tallahatchie County
+38928,glendora,33.8630451,-90.3183792,Mississippi,Tallahatchie County
+38929,gore springs,33.773232,-89.5308903,Mississippi,Grenada County
+38930,greenwood,33.5726622,-90.1869644,Mississippi,Leflore County
+38935,greenwood,33.5289254,-90.2069652,Mississippi,Leflore County
+38940,holcomb,33.7294184,-90.0186555,Mississippi,Grenada County
+38941,itta bena,33.5050925,-90.3560076,Mississippi,Leflore County
+38943,mc carley,33.4607058,-89.8692203,Mississippi,Carroll County
+38944,minter city,33.7736084,-90.3560076,Mississippi,Leflore County
+38945,money,33.65,-90.2099999,Mississippi,Leflore County
+38946,morgan city,33.3649523,-90.3513021,Mississippi,Leflore County
+38947,north carrollton,33.5150291,-89.9203592,Mississippi,Carroll County
+38948,oakland,34.086344,-89.8692203,Mississippi,Yalobusha County
+38949,paris,34.1853213,-89.44585099999999,Mississippi,Lafayette County
+38950,philipp,33.7404102,-90.2150873,Mississippi,Tallahatchie County
+38951,pittsboro,33.994882,-89.2277026,Mississippi,Calhoun County
+38952,schlater,33.6394461,-90.3560076,Mississippi,Leflore County
+38953,scobey,33.9192165,-89.9159785,Mississippi,Yalobusha County
+38954,sidon,33.4156889,-90.2432307,Mississippi,Leflore County
+38955,slate spring,33.86,-89.31,Mississippi,Webster County
+38957,sumner,33.9800764,-90.3513021,Mississippi,Tallahatchie County
+38958,swan lake,33.88051,-90.28764,Mississippi,Tallahatchie County
+38959,swiftown,33.3053359,-90.4253821,Mississippi,Leflore County
+38960,tie plant,33.78231,-89.82791999999999,Mississippi,Grenada County
+38961,tillatoba,33.9637511,-89.84113819999999,Mississippi,Yalobusha County
+38962,tippo,33.9124575,-90.18081959999999,Mississippi,Tallahatchie County
+38963,tutwiler,33.9965422,-90.4313729,Mississippi,Tallahatchie County
+38964,vance,34.0969488,-90.38425269999999,Mississippi,Quitman County
+38965,water valley,34.1082186,-89.6628111,Mississippi,Yalobusha County
+38966,webb,33.9578313,-90.3324856,Mississippi,Tallahatchie County
+38967,winona,33.482915,-89.7379958,Mississippi,Montgomery County
+39038,belzoni,33.190345,-90.5068824,Mississippi,Humphreys County
+39039,benton,32.8308468,-90.20571079999999,Mississippi,Yazoo County
+39040,bentonia,32.6496133,-90.4313729,Mississippi,Yazoo County
+39041,bolton,32.4232048,-90.46910969999999,Mississippi,Hinds County
+39042,brandon,32.220001,-89.9626799,Mississippi,Rankin County
+39043,brandon,32.2785279,-90.0007522,Mississippi,Rankin County
+39044,braxton,32.0155477,-89.9813445,Mississippi,Simpson County
+39045,camden,32.7857666,-89.83177289999999,Mississippi,Madison County
+39046,canton,32.5825142,-89.9626799,Mississippi,Madison County
+39047,brandon,32.4240616,-89.9440061,Mississippi,Rankin County
+39051,carthage,32.8073509,-89.4742177,Mississippi,Leake County
+39054,cary,32.7714022,-90.8961217,Mississippi,Sharkey County
+39056,clinton,32.3782595,-90.3560076,Mississippi,Hinds County
+39057,conehatta,32.4672377,-89.2657266,Mississippi,Newton County
+39058,clinton,32.3375988,-90.3310159,Mississippi,Hinds County
+39059,crystal springs,31.969565,-90.3560076,Mississippi,Copiah County
+39060,clinton,32.3415342,-90.3217585,Mississippi,Hinds County
+39061,delta city,33.0739696,-90.795197,Mississippi,Sharkey County
+39062,d lo,31.98604839999999,-89.9015764,Mississippi,Simpson County
+39063,durant,33.1013373,-89.8692203,Mississippi,Holmes County
+39066,edwards,32.3320875,-90.5825359,Mississippi,Hinds County
+39067,ethel,33.1000508,-89.41746409999999,Mississippi,Attala County
+39069,fayette,31.6698772,-91.02032240000001,Mississippi,Jefferson County
+39071,flora,32.5594981,-90.3183792,Mississippi,Madison County
+39072,pocahontas,32.47,-90.28999999999999,Mississippi,Hinds County
+39073,florence,32.1290469,-90.1869644,Mississippi,Rankin County
+39074,forest,32.4910672,-89.5120084,Mississippi,Scott County
+39077,gallman,31.9275026,-90.394261,Mississippi,Copiah County
+39078,georgetown,31.878865,-90.20571079999999,Mississippi,Copiah County
+39079,goodman,32.9662671,-89.9066314,Mississippi,Holmes County
+39080,harperville,32.4943091,-89.48927499999999,Mississippi,Scott County
+39081,harriston,31.73,-91.03,Mississippi,Jefferson County
+39082,harrisville,31.96999469999999,-90.13077969999999,Mississippi,Simpson County
+39083,hazlehurst,31.8327591,-90.4313729,Mississippi,Copiah County
+39086,hermanville,31.9453064,-90.7152749,Mississippi,Claiborne County
+39087,hillsboro,32.4591985,-89.5115117,Mississippi,Scott County
+39088,holly bluff,32.8211767,-90.7082269,Mississippi,Yazoo County
+39090,kosciusko,33.1232253,-89.5874819,Mississippi,Attala County
+39092,lake,32.2863647,-89.341667,Mississippi,Scott County
+39094,lena,32.5820695,-89.6628111,Mississippi,Scott County
+39095,lexington,33.1238994,-90.0373201,Mississippi,Holmes County
+39096,lorman,31.8508718,-91.17369939999999,Mississippi,Jefferson County
+39097,louise,33.0100039,-90.5825359,Mississippi,Humphreys County
+39098,ludlow,32.5715729,-89.71287149999999,Mississippi,Scott County
+39107,mc adams,33.04,-89.66,Mississippi,Attala County
+39108,mc cool,33.1444623,-89.3037147,Mississippi,Attala County
+39109,madden,32.6788274,-89.348603,Mississippi,Leake County
+39110,madison,32.5145763,-90.13077969999999,Mississippi,Madison County
+39111,magee,31.8332555,-89.7567693,Mississippi,Simpson County
+39113,mayersville,32.9169248,-91.0394635,Mississippi,Issaquena County
+39114,mendenhall,31.9471741,-89.81303559999999,Mississippi,Simpson County
+39115,midnight,33.0495712,-90.57342609999999,Mississippi,Humphreys County
+39116,mize,31.8783023,-89.5686271,Mississippi,Smith County
+39117,morton,32.4009704,-89.6628111,Mississippi,Scott County
+39119,mount olive,31.7419476,-89.68162079999999,Mississippi,Covington County
+39120,natchez,31.5758013,-91.3276422,Mississippi,Adams County
+39121,natchez,31.5625667,-91.4044692,Mississippi,Adams County
+39122,natchez,31.5625667,-91.4044692,Mississippi,Adams County
+39130,madison,32.46,-90.11999999999999,Mississippi,Madison County
+39140,newhebron,31.73093669999999,-90.04665589999999,Mississippi,Lawrence County
+39144,pattison,31.8309188,-90.810357,Mississippi,Claiborne County
+39145,pelahatchie,32.2879058,-89.7942892,Mississippi,Rankin County
+39146,pickens,32.8310026,-89.9440061,Mississippi,Holmes County
+39148,piney woods,32.0623401,-89.99262279999999,Mississippi,Rankin County
+39149,pinola,31.8334855,-90.0186555,Mississippi,Simpson County
+39150,port gibson,32.0119115,-90.9629523,Mississippi,Claiborne County
+39151,puckett,32.0906986,-89.7684462,Mississippi,Rankin County
+39152,pulaski,32.1964422,-89.5308903,Mississippi,Scott County
+39153,raleigh,32.0373511,-89.5120084,Mississippi,Smith County
+39154,raymond,32.24196730000001,-90.4313729,Mississippi,Hinds County
+39156,redwood,32.5573,-90.810357,Mississippi,Warren County
+39157,ridgeland,32.4352998,-90.1588618,Mississippi,Madison County
+39158,ridgeland,32.410031,-90.1235962,Mississippi,Madison County
+39159,rolling fork,32.8273285,-90.9629523,Mississippi,Sharkey County
+39160,sallis,33.0111209,-89.7567693,Mississippi,Attala County
+39161,sandhill,32.4877573,-89.87623119999999,Mississippi,Rankin County
+39162,satartia,32.5217688,-90.8377344,Mississippi,Yazoo County
+39163,sharon,32.61172,-90.03652,Mississippi,Madison County
+39165,sibley,31.3788514,-91.39827629999999,Mississippi,Adams County
+39166,silver city,33.0555134,-90.46910969999999,Mississippi,Humphreys County
+39167,star,32.0958096,-90.04140420000002,Mississippi,Rankin County
+39168,taylorsville,31.8321598,-89.41746409999999,Mississippi,Smith County
+39169,tchula,33.21357640000001,-90.26200419999999,Mississippi,Holmes County
+39170,terry,32.1059688,-90.3560076,Mississippi,Hinds County
+39171,thomastown,32.86409,-89.6694,Mississippi,Leake County
+39173,tinsley,32.7229629,-90.45495419999999,Mississippi,Yazoo County
+39174,tougaloo,32.4027282,-90.1647148,Mississippi,
+39175,utica,32.1275776,-90.6393702,Mississippi,Hinds County
+39176,vaiden,33.2809406,-89.7192132,Mississippi,Carroll County
+39177,valley park,32.63021,-90.863219,Mississippi,Issaquena County
+39179,vaughan,32.83098040000001,-90.09336859999999,Mississippi,Yazoo County
+39180,vicksburg,32.2170441,-90.86751339999999,Mississippi,Warren County
+39181,vicksburg,32.31397030000001,-90.8807793,Mississippi,Warren County
+39182,vicksburg,32.31397030000001,-90.8807793,Mississippi,Warren County
+39183,vicksburg,32.4659886,-90.9247501,Mississippi,Warren County
+39189,walnut grove,32.6036103,-89.3795835,Mississippi,Leake County
+39190,washington,31.5787773,-91.29927839999999,Mississippi,Adams County
+39191,wesson,31.6961392,-90.3936722,Mississippi,Copiah County
+39192,west,33.2024861,-89.8224054,Mississippi,Holmes County
+39193,whitfield,32.23699,-90.07587,Mississippi,Rankin County
+39194,yazoo city,32.8523122,-90.563609,Mississippi,Yazoo County
+39201,jackson,32.2907734,-90.18462170000001,Mississippi,Hinds County
+39202,jackson,32.3163028,-90.1729106,Mississippi,Hinds County
+39203,jackson,32.3049231,-90.2010233,Mississippi,Hinds County
+39204,jackson,32.2821952,-90.2291565,Mississippi,Hinds County
+39205,jackson,32.3503996,-90.1529468,Mississippi,Hinds County
+39206,jackson,32.3673036,-90.17759459999999,Mississippi,Hinds County
+39207,jackson,32.3,-90.17999999999999,Mississippi,Hinds County
+39208,pearl,32.2540172,-90.08402149999999,Mississippi,Rankin County
+39209,jackson,32.4124147,-90.2901815,Mississippi,Hinds County
+39210,jackson,32.3224537,-90.1773621,Mississippi,Hinds County
+39211,jackson,32.3730312,-90.1261013,Mississippi,Hinds County
+39212,jackson,32.2537549,-90.27139439999999,Mississippi,Hinds County
+39213,jackson,32.3672122,-90.2338473,Mississippi,Hinds County
+39215,jackson,32.3,-90.17999999999999,Mississippi,Hinds County
+39216,jackson,32.3361632,-90.15652089999999,Mississippi,Hinds County
+39217,jackson,32.2981786,-90.20834769999999,Mississippi,Hinds County
+39218,richland,32.2255867,-90.15418000000001,Mississippi,Rankin County
+39225,jackson,32.3,-90.17999999999999,Mississippi,Hinds County
+39232,flowood,32.3220478,-90.102718,Mississippi,Rankin County
+39235,jackson,47.14871,5.762568,Bourgogne-Franche-Comté,Hinds County
+39236,jackson,32.3630585,-90.1475822,Mississippi,Hinds County
+39250,jackson,32.3,-90.17999999999999,Mississippi,Hinds County
+39269,jackson,32.3012211,-90.18886789999999,Mississippi,Hinds County
+39271,jackson,32.3,-90.17999999999999,Mississippi,Hinds County
+39272,byram,32.20836800000001,-90.27139439999999,Mississippi,Hinds County
+39282,jackson,32.2539326,-90.24813370000001,Mississippi,Hinds County
+39283,jackson,32.3321017,-90.1928384,Mississippi,Hinds County
+39284,jackson,32.2967582,-90.2614309,Mississippi,Hinds County
+39286,jackson,32.3510481,-90.17699999999999,Mississippi,Hinds County
+39288,pearl,32.2799625,-90.1360377,Mississippi,Rankin County
+39289,jackson,32.2987573,-90.1848103,Mississippi,Hinds County
+39296,jackson,32.33,-90.17999999999999,Mississippi,Hinds County
+39298,jackson,32.2913927,-90.07082489999999,Mississippi,Hinds County
+39301,meridian,32.3029712,-88.59517509999999,Mississippi,Lauderdale County
+39302,meridian,32.3657238,-88.6994709,Mississippi,Lauderdale County
+39303,meridian,32.4116353,-88.70752979999999,Mississippi,Lauderdale County
+39304,meridian,32.3638105,-88.7284681,Mississippi,Lauderdale County
+39305,meridian,32.4633755,-88.7686382,Mississippi,Lauderdale County
+39307,meridian,32.32781360000001,-88.8070886,Mississippi,Lauderdale County
+39309,meridian,32.55504820000001,-88.6072441,Mississippi,Lauderdale County
+39320,bailey,32.5649223,-88.73977719999999,Mississippi,Lauderdale County
+39322,buckatunna,31.5851839,-88.4888194,Mississippi,Wayne County
+39323,chunky,32.3402603,-88.93180819999999,Mississippi,Newton County
+39324,clara,31.57843239999999,-88.6973536,Mississippi,Wayne County
+39325,collinsville,32.5549683,-88.8838834,Mississippi,Lauderdale County
+39326,daleville,32.5983539,-88.6916315,Mississippi,Lauderdale County
+39327,decatur,32.4662619,-89.1134166,Mississippi,Newton County
+39328,de kalb,32.7563034,-88.6723578,Mississippi,Kemper County
+39330,enterprise,32.1920635,-88.8455037,Mississippi,Clarke County
+39332,hickory,46.697512,5.728236,Bourgogne-Franche-Comté,Newton County
+39335,lauderdale,32.5509748,-88.49849909999999,Mississippi,Lauderdale County
+39336,lawrence,32.2859479,-89.2657266,Mississippi,Newton County
+39337,little rock,32.510679,-88.99880979999999,Mississippi,Newton County
+39338,louin,32.1267231,-89.20867729999999,Mississippi,Jasper County
+39339,louisville,33.1197471,-88.9796776,Mississippi,Winston County
+39341,macon,33.1151313,-88.5178518,Mississippi,Noxubee County
+39342,marion,32.4196623,-88.6458421,Mississippi,Lauderdale County
+39345,newton,32.3077848,-89.1324866,Mississippi,Newton County
+39346,noxapater,32.9631702,-89.1134166,Mississippi,Winston County
+39347,pachuta,32.0679012,-88.93180819999999,Mississippi,Clarke County
+39348,paulding,32.0001721,-88.9892448,Mississippi,Jasper County
+39350,philadelphia,32.7603148,-89.1324866,Mississippi,Neshoba County
+39352,porterville,32.6861355,-88.4597673,Mississippi,Kemper County
+39354,preston,32.8480968,-88.8263006,Mississippi,Kemper County
+39355,quitman,32.0305407,-88.59517509999999,Mississippi,Clarke County
+39356,rose hill,32.1482511,-89.0370477,Mississippi,Jasper County
+39358,scooba,32.8439015,-88.4403883,Mississippi,Kemper County
+39359,sebastopol,32.5652344,-89.3381105,Mississippi,Scott County
+39360,shubuta,31.8730964,-88.7686382,Mississippi,Clarke County
+39361,shuqualak,32.9586536,-88.6144839,Mississippi,Noxubee County
+39362,state line,31.391374,-88.5178518,Mississippi,Greene County
+39363,stonewall,32.1403046,-88.7734464,Mississippi,Clarke County
+39364,toomsuba,32.4151692,-88.49849909999999,Mississippi,Lauderdale County
+39365,union,32.6022834,-89.1515476,Mississippi,Newton County
+39366,vossburg,31.9196764,-88.8838834,Mississippi,Jasper County
+39367,waynesboro,31.6678378,-88.7493998,Mississippi,Wayne County
+39401,hattiesburg,31.2148677,-89.28472510000002,Mississippi,Forrest County
+39402,hattiesburg,31.3299729,-89.41746409999999,Mississippi,Lamar County
+39403,hattiesburg,31.326986,-89.29058479999999,Mississippi,Forrest County
+39404,hattiesburg,31.3232705,-89.3479819,Mississippi,Forrest County
+39406,hattiesburg,31.32884159999999,-89.3315894,Mississippi,Forrest County
+39407,hattiesburg,31.1943721,-89.2062985,Mississippi,Forrest County
+39421,bassfield,31.468164,-89.7192132,Mississippi,Jefferson Davis County
+39422,bay springs,31.9677239,-89.2277026,Mississippi,Jasper County
+39423,beaumont,31.1894537,-88.9222277,Mississippi,Perry County
+39425,brooklyn,31.0531444,-89.0752499,Mississippi,Forrest County
+39426,carriere,30.6426111,-89.68162079999999,Mississippi,Pearl River County
+39427,carson,31.51405149999999,-89.83177289999999,Mississippi,Jefferson Davis County
+39428,collins,31.6504004,-89.5686271,Mississippi,Covington County
+39429,columbia,31.2165811,-89.7379958,Mississippi,Marion County
+39436,eastabuchie,31.4357975,-89.28887979999999,Mississippi,Jones County
+39437,ellisville,31.5802262,-89.20867729999999,Mississippi,Jones County
+39439,heidelberg,31.8521883,-88.9796776,Mississippi,Jasper County
+39440,laurel,31.6995406,-89.13725269999999,Mississippi,Jones County
+39441,laurel,31.6944561,-89.1406904,Mississippi,Jones County
+39442,laurel,31.6944561,-89.1406904,Mississippi,Jones County
+39443,laurel,31.7626903,-89.20867729999999,Mississippi,Jones County
+39451,leakesville,31.1865227,-88.6144839,Mississippi,Greene County
+39452,lucedale,30.7959493,-88.55653099999999,Mississippi,George County
+39455,lumberton,30.9401636,-89.3606298,Mississippi,Lamar County
+39456,mc lain,31.0509542,-88.8070886,Mississippi,Greene County
+39457,mc neill,30.6606803,-89.6457042,Mississippi,Pearl River County
+39459,moselle,49.5877076,15.2617699,,Jones County
+39460,moss,31.82,-89.18,Mississippi,Jasper County
+39461,neely,31.1877102,-88.7301525,Mississippi,Greene County
+39462,new augusta,31.1906385,-89.0752499,Mississippi,Perry County
+39463,nicholson,30.4793134,-89.6949571,Mississippi,Pearl River County
+39464,ovett,31.4878553,-89.0561532,Mississippi,Jones County
+39465,petal,31.3287429,-89.18964299999999,Mississippi,Forrest County
+39466,picayune,30.5044923,-89.68162079999999,Mississippi,Pearl River County
+39470,poplarville,30.8492406,-89.5874819,Mississippi,Pearl River County
+39474,prentiss,31.6738881,-89.8879304,Mississippi,Jefferson Davis County
+39475,purvis,31.1468174,-89.41746409999999,Mississippi,Lamar County
+39476,richton,31.3952297,-88.90306,Mississippi,Perry County
+39477,sandersville,31.78627,-89.03415,Mississippi,Jones County
+39478,sandy hook,31.0563765,-89.8692203,Mississippi,Walthall County
+39479,seminary,31.5130078,-89.4553088,Mississippi,Covington County
+39480,soso,31.7063049,-89.3132061,Mississippi,Jones County
+39481,stringer,31.8766963,-89.2277026,Mississippi,Jasper County
+39482,sumrall,31.3992391,-89.5874819,Mississippi,Lamar County
+39483,foxworth,31.2855128,-89.9440061,Mississippi,Marion County
+39501,gulfport,30.3981324,-89.10387829999999,Mississippi,Harrison County
+39502,gulfport,30.3669872,-89.09216119999999,Mississippi,Harrison County
+39503,gulfport,30.4560609,-89.1515476,Mississippi,Harrison County
+39505,gulfport,30.4434816,-89.1010422,Mississippi,Harrison County
+39506,gulfport,30.383275,-89.0441118,Mississippi,Harrison County
+39507,gulfport,30.3918615,-89.0322699,Mississippi,Harrison County
+39520,bay saint louis,30.2733722,-89.49311759999999,Mississippi,Hancock County
+39521,bay saint louis,30.3112219,-89.363654,Mississippi,Hancock County
+39522,stennis space center,30.31,-89.33,Mississippi,Hancock County
+39525,diamondhead,30.3766274,-89.3701078,Mississippi,Hancock County
+39529,stennis space center,30.38,-89.61,Mississippi,Hancock County
+39530,biloxi,30.4023298,-88.8982666,Mississippi,Harrison County
+39531,biloxi,30.4028755,-88.96532260000001,Mississippi,Harrison County
+39532,biloxi,30.5007553,-88.96053649999999,Mississippi,Harrison County
+39533,biloxi,30.3951021,-88.8857069,Mississippi,Harrison County
+39534,biloxi,30.4111518,-88.9198322,Mississippi,Harrison County
+39535,biloxi,30.4025846,-88.96182449999999,Mississippi,Harrison County
+39540,diberville,30.4426171,-88.8934728,Mississippi,Harrison County
+39552,escatawpa,30.4891667,-88.5511111,Mississippi,Jackson County
+39553,gautier,30.4172273,-88.64343079999999,Mississippi,Jackson County
+39555,hurley,30.6605,-88.49419999999999,Mississippi,Jackson County
+39556,kiln,30.3887582,-89.5120084,Mississippi,Hancock County
+39558,lakeshore,30.2584883,-89.4595319,Mississippi,Hancock County
+39560,long beach,30.3755788,-89.1801225,Mississippi,Harrison County
+39561,mc henry,30.6978082,-89.1610748,Mississippi,Stone County
+39562,moss point,30.5655623,-88.5178518,Mississippi,Jackson County
+39563,moss point,30.4161933,-88.5468645,Mississippi,Jackson County
+39564,ocean springs,30.4069394,-88.7686382,Mississippi,Jackson County
+39565,vancleave,30.56798059999999,-88.7493998,Mississippi,Jackson County
+39566,ocean springs,30.4163138,-88.8171141,Mississippi,Jackson County
+39567,pascagoula,30.3529682,-88.56136339999999,Mississippi,Jackson County
+39568,pascagoula,30.37,-88.56,Mississippi,Jackson County
+39569,pascagoula,30.56,-88.49,Mississippi,Jackson County
+39571,pass christian,30.410662,-89.2657266,Mississippi,Harrison County
+39572,pearlington,30.2852671,-89.59690599999999,Mississippi,Hancock County
+39573,perkinston,30.7776864,-89.0752499,Mississippi,Stone County
+39574,saucier,30.5939705,-89.1134166,Mississippi,Harrison County
+39576,waveland,30.2844661,-89.389057,Mississippi,Hancock County
+39577,wiggins,30.9152156,-89.0370477,Mississippi,Stone County
+39581,pascagoula,30.3640657,-88.5226886,Mississippi,Jackson County
+39595,pascagoula,30.3329778,-88.57827259999999,Mississippi,Jackson County
+39601,brookhaven,31.5810726,-90.6393702,Mississippi,Lincoln County
+39602,brookhaven,31.59,-90.47,Mississippi,Lincoln County
+39603,brookhaven,31.59,-90.47,Mississippi,Lincoln County
+39629,bogue chitto,31.4219066,-90.46910969999999,Mississippi,Lincoln County
+39630,bude,31.4599293,-90.8532168,Mississippi,Franklin County
+39631,centreville,31.0516381,-91.1161166,Mississippi,Wilkinson County
+39632,chatawa,31.0587058,-90.4753781,Mississippi,Pike County
+39633,crosby,31.2800137,-91.1929114,Mississippi,Wilkinson County
+39635,fernwood,31.185294,-90.4484679,Mississippi,Pike County
+39638,gloster,31.2361556,-90.9629523,Mississippi,Amite County
+39641,jayess,31.3311785,-90.1682271,Mississippi,Lawrence County
+39643,kokomo,31.2282954,-90.0093266,Mississippi,Marion County
+39645,liberty,31.1227954,-90.7913227,Mississippi,Amite County
+39647,mc call creek,31.5577362,-90.73427339999999,Mississippi,Franklin County
+39648,mccomb,31.2391441,-90.3936722,Mississippi,Pike County
+39649,mccomb,31.24,-90.45,Mississippi,Pike County
+39652,magnolia,31.1013025,-90.5068824,Mississippi,Pike County
+39653,meadville,31.4197092,-90.8865834,Mississippi,Franklin County
+39654,monticello,31.559768,-90.13077969999999,Mississippi,Lawrence County
+39656,oak vale,31.4227596,-89.9813445,Mississippi,Lawrence County
+39657,osyka,31.0210147,-90.5163312,Mississippi,Pike County
+39661,roxie,31.4866408,-91.09693999999999,Mississippi,Franklin County
+39662,ruth,31.3881404,-90.2901815,Mississippi,Lincoln County
+39663,silver creek,31.60548799999999,-90.0186555,Mississippi,Lawrence County
+39664,smithdale,31.3294091,-90.6962853,Mississippi,Amite County
+39665,sontag,31.6395381,-90.2150873,Mississippi,Lawrence County
+39666,summit,31.3304352,-90.46910969999999,Mississippi,Pike County
+39667,tylertown,31.125165,-90.11206960000001,Mississippi,Walthall County
+39668,union church,31.6944169,-90.7722974,Mississippi,Jefferson County
+39669,woodville,31.162986,-91.44346900000001,Mississippi,Wilkinson County
+39701,columbus,33.4521847,-88.5371958,Mississippi,Lowndes County
+39702,columbus,33.44975730000001,-88.3433623,Mississippi,Lowndes County
+39703,columbus,33.4959294,-88.383371,Mississippi,Lowndes County
+39704,columbus,33.4946934,-88.4327787,Mississippi,Lowndes County
+39705,columbus,33.5851639,-88.4210006,Mississippi,Lowndes County
+39710,columbus,33.6260468,-88.4464452,Mississippi,Lowndes County
+39730,aberdeen,33.7438161,-88.59517509999999,Mississippi,Monroe County
+39735,ackerman,33.3909832,-89.20867729999999,Mississippi,Choctaw County
+39736,artesia,33.4099848,-88.6470477,Mississippi,Lowndes County
+39737,bellefontaine,33.6718198,-89.35114949999999,Mississippi,Webster County
+39739,brooksville,33.2290664,-88.6530753,Mississippi,Noxubee County
+39740,caledonia,33.6731203,-88.3044908,Mississippi,Lowndes County
+39741,cedarbluff,33.6345917,-88.8455037,Mississippi,Clay County
+39743,crawford,33.318899,-88.6530753,Mississippi,Lowndes County
+39744,eupora,33.5932426,-89.3037147,Mississippi,Webster County
+39745,french camp,33.2800685,-89.4553088,Mississippi,Choctaw County
+39746,hamilton,33.7419661,-88.4403883,Mississippi,Monroe County
+39747,kilmichael,33.4151798,-89.5686271,Mississippi,Montgomery County
+39750,maben,33.5917529,-89.0752499,Mississippi,Webster County
+39751,mantee,33.6926462,-89.10387829999999,Mississippi,Webster County
+39752,mathiston,33.5810379,-89.1420182,Mississippi,Choctaw County
+39753,mayhew,33.489833,-88.6458421,Mississippi,Lowndes County
+39754,montpelier,33.60327,-88.64719,Mississippi,Clay County
+39755,pheba,33.6019584,-88.9509626,Mississippi,Clay County
+39756,prairie,33.7676166,-88.7301525,Mississippi,Monroe County
+39759,starkville,33.47765890000001,-88.8263006,Mississippi,Oktibbeha County
+39760,starkville,33.3953688,-88.9253151,Mississippi,Oktibbeha County
+39762,mississippi state,33.45622,-88.79570799999999,Mississippi,Oktibbeha County
+39766,steens,33.5841534,-88.3433623,Mississippi,Lowndes County
+39767,stewart,33.5044098,-89.4553088,Mississippi,Webster County
+39769,sturgis,33.3224523,-89.0370477,Mississippi,Oktibbeha County
+39771,walthall,33.6014604,-89.2728521,Mississippi,Webster County
+39772,weir,33.3242249,-89.3037147,Mississippi,Choctaw County
+39773,west point,33.6326542,-88.6530753,Mississippi,Clay County
+39776,woodland,33.7706709,-89.0752499,Mississippi,Chickasaw County

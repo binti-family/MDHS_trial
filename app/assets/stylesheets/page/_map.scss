@@ -1,0 +1,18 @@
+.providers-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.provider-row {
+  margin-bottom: 50px;
+  width: 30%;
+
+  h3 {
+    margin: 0 0 20px;
+  }
+
+  p {
+    margin: 0;
+  }
+}

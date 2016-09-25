@@ -8,9 +8,12 @@ task :import_providers => :environment do
       quality_rating: row["QualityRating"],
       capacity: row["ProviderCapacity"],
       city: row["PhysicalCity"],
-      zipcode: row["PhysicalZipcode"],
-      county_name: row["County_name"],
-      phone_number: row["PhoneNumber"]
+      zipcode: row["PhysicalZipCode"],
+      county_name: row["CountyName"],
+      phone_number: row["PhoneNumber"],
+      age_range: row["Age"],
+      gender: row["Gender"],
+      hours_of_operation: row["Hours of operation"]
     )
 
     if p.persisted?
