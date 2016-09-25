@@ -14,7 +14,7 @@ class Provider < ActiveRecord::Base
   }
 
   def self.provider_types
-    distinct(:provider_type).pluck(:provider_type)
+    distinct(:provider_type).order(:provider_type).pluck(:provider_type)
   end
 
   def as_json(options = {})
