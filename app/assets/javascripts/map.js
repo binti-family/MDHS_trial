@@ -1,10 +1,11 @@
-$(function () {
+window.$(function () {
+  var $ = window.$;
   var $map = $('#map');
   var _ = window._;
 
   var initMap = function () {
     var map = new window.google.maps.Map($map[0], {
-      center: { lat: 36.7783, lng: -119.4179 },
+      center: { lat: 32.3547, lng: -89.3985 },
       mapTypeId: window.google.maps.MapTypeId.ROADMAP,
       zoom: 6,
     });
@@ -22,36 +23,36 @@ $(function () {
           }
 
           var bounds = new window.google.maps.LatLngBounds();
-          var infoWindow = new window.google.maps.InfoWindow();
-          var infoTemplate = _.template($('.template-marker-info').html());
-          var facilityTemplate = _.template($('.template-facility-row').html());
-          var $facilitiesContainer = $('.facilities-container');
-          $facilitiesContainer.html('');
+          var providerTemplate = _.template($('.template-provider-row').html());
+          var $providersContainer = $('.providers-container');
+          $providersContainer.html('');
 
-          _.chain(results).sortBy(function (facility) {
-            return facility.distance_in_miles;
-          }).each(function (facility) {
-            var marker = new window.google.maps.Marker({
-              position: new window.google.maps.LatLng(
-                facility.lat,
-                facility.lon
-              ),
-              map: map,
-              title: facility.name,
+          _.chain(results)
+            .each(function (provider) {
+              console.log(provider);
+              $providersContainer.append($(providerTemplate(provider)));
+            })
+            .uniq(function (provider) {
+              return provider.zipcode;
+            })
+            .each(function (provider) {
+              var marker = new window.google.maps.Marker({
+                position: new window.google.maps.LatLng(
+                  provider.lat,
+                  provider.long
+                ),
+                map: map,
+                title: provider.name,
+              });
+
+              bounds.extend(marker.getPosition());
             });
-
-            bounds.extend(marker.getPosition());
-
-            $facilitiesContainer.append($(facilityTemplate(facility)));
-
-            marker.addListener('click', function () {
-              infoWindow.close();
-              infoWindow.setContent(infoTemplate(facility));
-              infoWindow.open(map, marker);
-            });
-          });
 
           map.fitBounds(bounds);
+
+          if (map.zoom >= 10) {
+            map.setZoom(10);
+          }
         });
     });
   };
