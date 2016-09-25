@@ -60,7 +60,7 @@ window.$(function () {
   if ($map[0]) {
     window._initMap = initMap;
     $('body').append('<script src="https://maps.googleapis.com/maps/api/js?key=' +
-        'AIzaSyA1Tf3N330ixM6o1GI37nD48xtdmaCUH5I' +
+        'AIzaSyAmLUgX0vPztzPkKS2sGNSAAPFmvCL-5jM' +
         '&callback=_initMap" async defer></script');
   }
 });
