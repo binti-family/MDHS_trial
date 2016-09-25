@@ -20,4 +20,8 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  welcome_message: "Locate day care providers near you"
+  result:
+    provider_type: "Provider Type"
+    phone: "Phone Number"
+    hours: "Hours of Operation"
