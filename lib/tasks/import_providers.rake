@@ -4,7 +4,7 @@ task :import_providers => :environment do
     p = Provider.create(
       name: row["ProviderName"],
       licensed: row["LicenseType"] == "LICENSED",
-      provider_type: row["ProviderType"],
+      provider_type: row["ProviderTypeDescription"],
       quality_rating: row["QualityRating"],
       capacity: row["ProviderCapacity"],
       city: row["PhysicalCity"],
