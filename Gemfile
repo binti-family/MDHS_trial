@@ -9,6 +9,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'jquery-rails'
 gem 'geocoder'
 gem 'activerecord-postgis-adapter'
+gem 'dotenv-rails'
 
 group :development, :test do
   gem 'pry-rails'
