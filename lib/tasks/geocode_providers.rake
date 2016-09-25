@@ -14,5 +14,7 @@ task :geocode_providers => :environment do
     else
       puts "Unable to Geocod #{provider.name} #{provider.id}"
     end
+
+    sleep 0.5 # Rate limit
   end
 end
