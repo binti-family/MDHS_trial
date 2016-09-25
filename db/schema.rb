@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160925013338) do
+ActiveRecord::Schema.define(version: 20160925175005) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -27,9 +27,12 @@ ActiveRecord::Schema.define(version: 20160925013338) do
     t.string    "zipcode"
     t.string    "county_name"
     t.string    "phone_number"
-    t.geography "coordinates",    limit: {:srid=>4326, :type=>"point", :geographic=>true}
-    t.datetime  "created_at",                                                              null: false
-    t.datetime  "updated_at",                                                              null: false
+    t.geography "coordinates",        limit: {:srid=>4326, :type=>"point", :geographic=>true}
+    t.datetime  "created_at",                                                                  null: false
+    t.datetime  "updated_at",                                                                  null: false
+    t.string    "age_range"
+    t.string    "gender"
+    t.string    "hours_of_operation"
   end
 
 end
