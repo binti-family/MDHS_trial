@@ -2,13 +2,55 @@
 <html>
 <head>
   <title>MDHSTrial</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
-  <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+  <%= stylesheet_link_tag    'application', media: 'all' %>
   <%= csrf_meta_tags %>
 </head>
 <body>
+  <%= render "shared/nav" %>
 
-<%= yield %>
+  <div class="usa-grid main-content">
+    <%= yield %>
+  </div>
 
+  <footer>
+    <div class="usa-grid clearfix">
+      <div class="pull-left">
+        <div class="clearfix">
+          <div class="pull-left">
+            <img src="<%= asset_path("mdhs-logo.png") %>"
+                 alt="MDHS Logo"
+                 class="pull-left logo">
+            <p class="title">
+              <strong>Mississippi Department &amp;</strong><br />
+              <strong>of Human Services</strong>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="options">
+        <% if I18n.locale == :en %>
+          English
+        <% else %>
+          <%= link_to "English", url_for(locale: nil) %>
+        <% end %>
+        |
+        <% if I18n.locale == :es %>
+          Español
+        <% else %>
+          <%= link_to "Español", url_for(locale: :es) %>
+        <% end %>
+        |
+        <% if I18n.locale == :vi %>
+          Español
+        <% else %>
+          <%= link_to "Tiếng Việt", url_for(locale: :vi) %>
+        <% end %>
+        | (601)-555-5555
+        | <a href="mailto:contact@mdhs.gov">contact@mdhs.gov</a>
+      </div>
+    </div>
+  </footer>
+
+  <%= javascript_include_tag 'application' %>
 </body>
 </html>
