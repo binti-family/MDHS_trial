@@ -3,12 +3,18 @@ module Api
     MAX_LIMIT = 20
 
 		def index
-		  scope = Provider
-        .with_provider_type(params[:provider_type])
-        .order_by_closest_to(params[:zipcode])
-        .limit(limit)
+      if MS_ZIPCODES[params[:zipcode]]
+        scope = Provider
+          .with_provider_type(params[:provider_type])
+          .order_by_closest_to(params[:zipcode])
+          .limit(limit)
 
-		  render json: scope
+        render json: scope
+      else
+        render json: {
+          error: "Please enter a valid Mississippi Zipcode"
+        }
+      end
 		end
 
     private
