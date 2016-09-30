@@ -36,6 +36,4 @@ class Provider < ActiveRecord::Base
       quality_rating: quality_rating,
     }
   end
-
-
 end
