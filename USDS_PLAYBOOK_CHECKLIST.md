@@ -1,27 +1,24 @@
-# USDS Playbook Checklist for CHHS Foster Services Prototype
+# USDS Playbook Checklist for MHDS Prototype
 
 We adhered to the standards set forth in the [U.S. Digital Services Playbook](https://playbook.cio.gov/).
 
 ## Play 1
 ### Understand what people need
 
-From the beginning, we included user interviews and feedback in creating our prototype. Early on, we interviewed biological parents of foster youth, foster parents, foster care caseworkers, and foster youth to better understand their needs and current pain points. We also shadowed many caseworkers in San Francisco county to better understand their workflow and needs. We have been working on a pilot with San Francisco’s Foster Care Department, so we have deep domain expertise when it comes to understanding the needs of foster care stakeholders. [See notes here.](Product%20documentation/User%20interviews)
+From the beginning, we included user interviews and feedback in creating our prototype. Early on, we interviewed parents as well as caseworkers to better understand their needs and current pain points around searching for day care providers. We also shadowed many caseworkers in San Francisco county to better understand their workflow and needs. We have been working on a pilot with San Francisco’s Foster Care Department, so we have deep domain expertise when it comes to understanding the needs of foster care stakeholders. [See notes here.](Product%20documentation/User%20interviews)
 
 We learned many things from our user research that we incorporated into our design, including:
 * A mobile-friendly design
-* Accessibility in Spanish
-* Easy access to the foster care services search
-* Email notifications for messages
-* A landing page that social workers could easily edit
+* Accessibility in Spanish and Vietnamese
+* User-friendly access to the day care services map search
+* Provide service providers within radius of child's location
 
 After hearing from our users, we came up with a list of [user stories](Product%20documentation/User%20stories/User%20Stories.pdf) and prioritized the main features necessary for this prototype. We also created a [flow diagram](Product%20documentation/User%20flow/CHHS%20Prototype%20-%20User%20Flow.pdf) of different user journeys across the app. After that, we developed some [early mock-ups](Product%20documentation/Mockups) to get quick validation and user feedback. From there, we refined our designs, and created a [clickable prototype](https://invis.io/2N7JV7I63) using InVision to make sure the user journey worked as intended. We tested this prototype with real users. From there, we started building a Minimum Viable Product, and tested out our actual app on several users before making more iterations on our app to make it very user-friendly.
 
 ## Play 2
 ### Address the whole experience, from start to finish
 
-Through our [user interviews](Product%20documentation/User%20interviews), we understood people’s current pain points with interfacing with the foster care system. We also got a deeper understanding of how people accomplish their tasks online and offline now (see user interviews for more details). We understood that people would primarily use this app to locate foster care services nearby and to message their case worker. However, since this app would not be used very frequently, we decided to create a webapp instead to minimize any friction that would come from having to download a mobile app.
-
-One of the big problems we encountered through user research is that biological parent of foster youth often have a hard time keeping track of who their social worker is and how to contact them. As a result, in addition to the online messaging feature we built, we also provide the social worker’s name and phone number to the biological parent, so if it’s easier for them to call directly offline, they are able to do so.
+Through our [user interviews](Product%20documentation/User%20interviews), we understood people’s current pain points with interfacing with the day care search site. We also got a deeper understanding of how people accomplish their tasks online and offline now (see user interviews for more details). Dince this app would not be used very frequently, we decided to create a webapp instead to minimize any friction that would come from having to download a mobile app.
 
 ## Play 3
 ### Make it simple and intuitive
@@ -30,9 +27,9 @@ We relied on the [U.S. Web Design Standards](https://standards.usa.gov/) to guid
 
 We focused on creating a very simple design, such that users would intuitively know how to accomplish what they wanted to do, without any need for tool tips or reading instructions for what to do. Our clear navigational structure and headers help orient the user, no matter where they are in our application. If users do get stuck, we have contact information in our footer for them to easily reach out for help.
 
-We focused on making our application accessible by making it usable on laptops, tablets, mobile devices, and across many browsers. We also created a Spanish version to reach Spanish-speaking biological parents of foster youth. Our website copy is friendly and easy to understand -- we tried to eliminate jargon entirely and use familiar language instead, so that the majority of people would understand what the site was about.
+We focused on making our application accessible by making it usable on laptops, tablets, mobile devices, and across many browsers. We also created a Spanish and Vietnamese version to reach Spanish-speaking and Vietnamese-speaking parents looking for daycare. Our website copy is friendly and easy to understand -- we tried to eliminate jargon entirely and use familiar language instead, so that the majority of people would understand what the site was about.
 
-Once an account has been created, users can save their profile information and return to finish it later. We also provide a clear way to sign in and log out of the service.
+Since the information is publicly accessible, there is no need to create logins or usernames and passwords, making it fast and easy to get started using the site.
 
 ## Play 4
 ### Build the service using agile and iterative practices
@@ -67,7 +64,7 @@ Our team is an extremely talented group of multidisciplinary people with experie
 
 On our team, we have members with experience in product management, front end web development, backend web development, DevOps, visual design, user researcher, technical architecture, content writing and more. 
 
-We give back to the community in both the human services community and technical community. Members of our team have founded a non-profit teaching web development. We also have contributed to popular open source software including Ruby on Rails and Bundler. The two co-founders are also Court Appointed Special Advocates for foster youth in San Francisco.
+We give back to the community in both the human services community and technical community. Members of our team have founded a non-profit teaching web development. We also have contributed to popular open source software including Ruby on Rails and Bundler. One team member is also a Court Appointed Special Advocate for foster youth in San Francisco.
 
 ## Play 8
 ### Choose a modern technology stack
