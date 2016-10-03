@@ -1,12 +1,7 @@
 # Mississippi Vendor Challenge
 
 ## Links
-* **Landing Page:** [chhs-prototype.com](http://chhs-prototype.com/)
 * **Prototype:** [mississippi.binti.com](https://mississippi.binti.com/)
-
-## Instructions to test
-* **As a parent:** Start at the landing page, [chhs-prototype.com](http://chhs-prototype.com/)
-* **As a social worker**: To login as a social worker and reply to messages from parents, [login here](https://chhs-prototype.binti.com/users/sign_in) and use username: social@binti.com and password: binti456
 
 ### a. Assigned one leader
 Felicia Curcuru, Binti’s CEO and head of product management, is responsible for the prototype’s quality.
@@ -15,19 +10,15 @@ Felicia Curcuru, Binti’s CEO and head of product management, is responsible fo
 Our team includes 8 labor categories: Product Manager, Front End Web Developer, Backend Web Developer, DevOps Engineer, Visual Designer, User Researcher, Technical Architect, Writer.
 
 ### c. Understood what people needed
-We conducted user interviews with [basic mock-ups](Product%20documentation/Mockups), a [clickable prototype](https://invis.io/2N7JV7I63), and a live prototype. We iterated on the design and functionality at each step:
-* We interviewed biological parents of foster youth, foster parents, foster care caseworkers, and foster youth. While the tool is primarily meant for biological parents, other groups also expressed interest, so we considered them in our design.
-* To reduce friction, we decided to not hide the search functionality behind login, since multiple groups of users wanted to use this search and the data is publicly available. We only require login for biological parents to message their caseworker.
+We conducted user interviews with basic mockups, a clickable prototype, and a live prototype. We iterated on the design and functionality at each step:
+* We interviewed parents looking for day care providers as well as case workers looking for day care providers for their youth in care.
+* To reduce friction, we decided to not hide the search functionality behind login, since multiple groups of users wanted to use this search and the data is publicly available.
 * Several of the groups we interviewed preferred to use their mobile devices, so we decided to make the application is mobile-friendly.
-* Many biological parents of foster youth in California speak Spanish as their primary language, so the app is available in Spanish.
-* We decided to send an email notification for messages received, as It’s important for users to receive this each time they receive a message in order to alert them to login and reply. 
-* Most people were interested in the map search and messages, but not profiles. Therefore, we focused our efforts on those two and kept the profile basic.
-* The RFI mentioned foster family agencies and residential treatment facilities. The Q&A specified agencies. We learned that stakeholders were interested in both, so we built both.
-* We tested search results in both urban and rural zip codes and decided to show the 10 closest matches, sorted by distance, which gave enough results for rural users. If we had shown results within 5 miles, rural users may not have had many results.
-* We host the facilities index ourselves rather than query the Socrata API, so that we can geocode some of the facilities missing latitude/longitude in the Socrata API.
-* Social workers we interviewed wanted to be able to edit the website, so, we also built a WordPress landing page that can be easily edited by non-technical users.
+* We learned from the conference call with Mississippi social workers that in addition to English, Spanish and Vietnamese are also widely spoken, so the app is available in Spanish and Vietnamese as well.
+* Many people were interested in having a map show them day care providers near them, so we built a map and let people search by distance based on their zip code.
+* We tested search results in both urban and rural zip codes and decided to show the 12 closest matches, sorted by distance, which gave enough results for rural users. If we had shown results within 5 miles, rural users may not have had many results.
 
-### d. Used at least three “human-centered design” techniques or tools
+### d. Used “human-centered design” techniques or tools
 
 1. Shadowed each type of prospective user 
 2. Interviewed prospective users 
@@ -45,7 +36,7 @@ See [detailed user interview notes.](Product%20documentation/User%20interviews)
 
 ### g. Used an iterative approach
 
-We used an iterative approach, building a basic version, getting feedback, and iterating. We used [static mockups](Product%20documentation/Mockups), [clickable mockups](https://invis.io/2N7JV7I63), and live versions of the prototype to get feedback and iterate. See section C above for the decisions we made during these iterations.
+We used an iterative approach, building a basic version, getting feedback, and iterating. We used static mockups, clickable mockups, and live versions of the prototype to get feedback and iterate. See section C above for the decisions we made during these iterations.
 
 ### h. Created a responsive prototype that works on multiple devices
 We built a responsive app and tested it across browsers and devices. We adhered to the U.S. Digital Services Playbook for responsive design and browser compatibility.
