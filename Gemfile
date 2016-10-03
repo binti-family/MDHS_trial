@@ -29,7 +29,7 @@ end
 
 group :test do
   gem "factory_girl_rails"
-  gem "capybara-webkit"
+  gem "poltergeist"
   gem "database_cleaner"
   gem "faker"
 end

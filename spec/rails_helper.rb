@@ -6,10 +6,8 @@ abort("The Rails environment is running in production mode!") if Rails.env.produ
 require 'spec_helper'
 require 'rspec/rails'
 require 'capybara/rspec'
-Capybara.javascript_driver = :webkit
-Capybara::Webkit.configure do |config|
-  config.block_unknown_urls
-end
+require 'capybara/poltergeist'
+Capybara.javascript_driver = :poltergeist
 
 # Add additional requires below this line. Rails is not loaded until this point!
 
