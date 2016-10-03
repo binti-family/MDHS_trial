@@ -46,7 +46,6 @@ We built a responsive app and tested it across browsers and devices. We adhered 
 * Rails, version March 2016
 * PostgreSQL, version January 2016
 * jQuery, version January 2016
-* Soda-ruby, version February 2016
 * U.S. Web Design Standards, version June 2016
 
 ### j. Deployed the prototype on a Paas provider
@@ -56,7 +55,7 @@ We deployed the prototype on Heroku, a PaaS provider. Heroku integrates with Git
 We developed unit tests as we built our code to save time, ensure that our code is reliable and has less errors. 
 
 ### l. Setup or used a continuous integration system
-We connected our GitHub repo to [Travis CI](https://travis-ci.org/), a full-service continuous integration platform. 
+We connected our GitHub repo to [Travis CI](https://travis-ci.org/), a full-service continuous integration platform. Successful builds of our master branch in Travis CI are continuously deployed to Heroku, our PaaS platform.
 
 ### m. Used configuration management
 In our development environment, we use [dotenv](https://github.com/bkeepers/dotenv), a local configuration management tool [version March 2016]. In production, we manage configuration using Heroku’s official environment-based tooling, conforming to [The Twelve-Factor App](http://12factor.net/) manifesto.
