@@ -3,8 +3,7 @@ Rails.application.routes.draw do
     get "/providers" => "providers#index"
   end
 
-  scope "(:locale)", locale: /en|es|vi/ do
-
+  scope "(:locale)", locale: /en|es|vn/ do
     root to: "home#map"
   end
 end
