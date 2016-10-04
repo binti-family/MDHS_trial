@@ -22,6 +22,7 @@ We conducted user interviews with basic mockups, a clickable prototype, and a li
 * Many people were interested in having a map show them day care providers near them, so we built a map and let people search by distance based on their zip code.
 * We tested search results in both urban and rural zip codes and decided to show the 12 closest matches, sorted by distance, which gave enough results for rural users. If we had shown results within 5 miles, rural users may not have had many results.
 * Given more time and resources, we also have a few additional enhancements we would make for the next iteration of this website, including: adding in a link to each provider’s website in search results and include descriptions of what each provider type means.
+* Many people wanted to be able to see the age and genders of children accepted at day care centers, as well as hours of operation, so we added those into the search results for each provider.
 
 ### d. Used “human-centered design” techniques or tools
 
