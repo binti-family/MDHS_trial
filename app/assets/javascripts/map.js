@@ -3,6 +3,7 @@ window.$(function () {
   var $map = $('#map');
   var _ = window._;
   var map = null;
+  var markers = [];
 
   var initMap = function () {
     map = new window.google.maps.Map($map[0], {
@@ -12,10 +13,18 @@ window.$(function () {
     });
   };
 
+  var clearMarkers = function () {
+    for (var i = 0; i < markers.length; i++) {
+      markers[i].setMap(null);
+    }
+    markers = [];
+  }
+
   var dropMarkers = function (chained) {
     var bounds = new window.google.maps.LatLngBounds();
     var infoWindow = new window.google.maps.InfoWindow();
     var infoTemplate = _.template($('.template-marker-info').html());
+    clearMarkers();
 
     chained.
       each(function (provider) {
@@ -27,6 +36,7 @@ window.$(function () {
           map: map,
           title: provider.name,
         });
+        markers.push(marker);
 
         bounds.extend(marker.getPosition());
 
