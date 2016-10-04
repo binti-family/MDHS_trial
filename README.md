@@ -17,12 +17,13 @@ We conducted user interviews with basic mockups, a clickable prototype, and a li
 * We learned from the conference call with Mississippi social workers that in addition to English, Spanish and Vietnamese are also widely spoken, so the app is available in Spanish and Vietnamese as well.
 * Many people were interested in having a map show them day care providers near them, so we built a map and let people search by distance based on their zip code.
 * We tested search results in both urban and rural zip codes and decided to show the 12 closest matches, sorted by distance, which gave enough results for rural users. If we had shown results within 5 miles, rural users may not have had many results.
+* Given more time and resources, we also have a few additional enhancements we would make for the next iteration of this website, including: adding in a link to each provider’s website in search results and include descriptions of what each provider type means.
 
 ### d. Used “human-centered design” techniques or tools
 
 1. Shadowed each type of prospective user 
 2. Interviewed prospective users 
-3. Defined the audience & created user stories 
+3. Defined the audience & created user stories. [See here for user stories](Product%20documentation/User%20stories/MS%20User%20Stories.pdf).
 4. Tested prototypes with people 
 5. Iterated based on feedback
 
