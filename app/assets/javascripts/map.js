@@ -14,6 +14,9 @@ window.$(function () {
 
   var dropMarkers = function (chained) {
     var bounds = new window.google.maps.LatLngBounds();
+    var infoWindow = new window.google.maps.InfoWindow();
+    var infoTemplate = _.template($('.template-marker-info').html());
+
     chained.
       each(function (provider) {
         var marker = new window.google.maps.Marker({
@@ -26,6 +29,12 @@ window.$(function () {
         });
 
         bounds.extend(marker.getPosition());
+
+        marker.addListener('click', function () {
+          infoWindow.close();
+          infoWindow.setContent(infoTemplate(provider));
+          infoWindow.open(map, marker);
+        });
       });
 
     map.fitBounds(bounds);

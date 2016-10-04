@@ -34,6 +34,13 @@
 <div id="map"></div>
 <div class="providers-container"></div>
 
+<script type="text/template" class="template-marker-info">
+  <h4>{{= name }}</h4>
+  <p>
+    <strong><%= t(:phone) %></strong> {{= phone_number }}
+  </p>
+</script>
+
 <script type="text/template" class="template-provider-row">
   <section class="provider-row">
     <h3>{{= name }}</h3>
