@@ -7,6 +7,8 @@
 
 The team at Binti conducted user research, through attending the MS social worker conference call, as well as through individual user interviews with both parents and case workers. Through this research, we understood users’ needs and pain points as well as feedback on the current MS day care search website. Based on this feedback, we designed and built the Binti prototype, then we made changes iteratively based on more feedback. Through this research, we decided to make the site available in English, Spanish and Vietnamese. We also decided to let users search based on their zip code and show results close to them. We also added additional search data that users were interested in, including hours of operation as well as genders and ages of children served. You can learn more about our research, design and engineering process below.
 
+The team used a similar approach as we did for the recent CA Vendor Challenge. Binti is one of the 11 [approved vendors](https://cwscms.osi.ca.gov/CWDSADPQ) for CA CWDS.
+
 ### a. Assigned one leader
 Felicia Curcuru, Binti’s CEO and head of product management, is responsible for the prototype’s quality.
 
