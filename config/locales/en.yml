@@ -30,7 +30,7 @@ en:
   non_relative_out_of_home: "Non-Relative Out Of Home"
   relative_in_home: "Relative In Home"
   relative_out_of_home: "Relative Out Of Home"
-  slot_contractor: "Relative Out Of Home"
+  slot_contractor: "Slot Contractor"
   result:
     provider_type: "Provider Type"
     phone: "Phone Number"
